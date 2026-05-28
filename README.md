@@ -1,6 +1,6 @@
 # Joseph E. Arzate Jr. — Living Resume
 
-This repository is a living resume for Joseph E. Arzate Jr. It is organized to help hiring managers quickly review project work, supporting screenshots, and documents from past contract engagements.
+This repository is a living resume for Joseph E. Arzate Jr. It is organized to help review past work history, projects, supporting screenshots, and documents from past engagements.
 
 ## Quick Start for Reviewers
 
