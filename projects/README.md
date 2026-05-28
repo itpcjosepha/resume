@@ -1,13 +1,17 @@
 # Projects and Engagements
 
-This section is the main portfolio index for Joseph E. Arzate Jr.'s work history.
+This section is the main portfolio for Joseph E. Arzate Jr.'s work history.
 
-Use this folder to organize each project or contract engagement with:
+This folder is organized for each project with:
 
-- A short project summary
-- Role and responsibilities
-- Technologies used
-- Links to screenshots in [`/artifacts/screenshots`](../artifacts/screenshots/README.md)
+- ProMigrator 2FM (2026-Present)
+- Hearing Care Solutions (2022-2024)
+- Warner Bros. Discovery (2022-2024)
+- Wedgewood / Civic Financials / PacWest Bank
+- Ocean Direct (2009-2018)
+- Iron Mountain | Intel Computers (2015-2017)
+
+Links to screenshots in [`/artifacts/screenshots`](../artifacts/screenshots/README.md)
 - Links to supporting documents in [`/artifacts/documents`](../artifacts/documents/README.md)
 
 ## Suggested Entry Format
