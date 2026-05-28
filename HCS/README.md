@@ -1,6 +1,7 @@
 Hearing Care Solutions (2022-2024)
 
 Project Highlights:
+
 • Reverse engineer a 8 year old FileMaker Pro solution and transfer data to MS SQL Server with a orchestrated ETL process from daily backups.
 • Implement SDLC environments. DEV->QA->UAT->PROD. 
 • Ensure development would comply with HIPAA
