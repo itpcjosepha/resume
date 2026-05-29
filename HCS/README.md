@@ -6,16 +6,16 @@ Project Highlights:
 • Implement SDLC environments. DEV->QA->UAT->PROD. 
 • Ensure development would comply with HIPAA
 • Implement SDLC controls for HiTrust certification.  
-
-- Technology Stack:
-	• SQL Server
-	• ODBC / Linked Server to FileMaker Server
-	• PowerShell
-	• BulkLoad XSLT CSV 
-	• Export All
-	• Export Modified
-	• FileMaker Server Admin API
-	• External oAuth secure login implementation
+	
+	Technology Stack:
+		• SQL Server
+		• ODBC / Linked Server to FileMaker Server
+		• PowerShell
+		• BulkLoad XSLT CSV 
+		• Export All
+		• Export Modified
+		• FileMaker Server Admin API
+		• External oAuth secure login implementation
 
 
 The FileMaker solution I created for "Hearing Care Solutions” would; extract, transfer, and load over 7million rows of data from FileMaker to SQL Server. The screenshot of what I developed is headed in blue with “FM<=>SQL (Solution Analysis)”  the yellow card with redacted data is the original program that I did not develop or design. 
