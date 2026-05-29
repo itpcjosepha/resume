@@ -1,33 +1,93 @@
-# HMC Assets | Civic Financial | PacWest Bank (2017-2022) 
-https://www.linkedin.com/company/hmc-assets | https://www.pacificwestbank.com/
+# HMC Assets | Civic Financial Services | PacWest Bank
+Senior Software Engineer / Enterprise Applications Developer  
+2017 – 2022
 
-# HMC Assets
-Headquartered in Redondo Beach, CA, HMC acquires and manages institutional pools of distressed debt purchased from financial institutions, banks, and U.S. government sponsored enterprises including HUD, Fannie Mae and Freddie Mac. Actively engaged in the non-performing loan market, HMC has established itself as one of the market leaders at evaluating, pricing and managing such inventory. We are a large acquirer of distressed debt, having purchased in excess of $1 billion of non-performing loans, primarily in the Western United States and Florida.
+## Business Overview
 
-# Civic Financial Services
-https://cv3financial.com/leadership/
-This company was created shortly after HMC Assets was split up. I assisted with that transition and again when Civic was purchased by Pac West Bank. 
+HMC Assets, headquartered in Redondo Beach, California, specialized in acquiring and managing institutional portfolios of distressed debt purchased from financial institutions, banks, and government-sponsored enterprises including HUD, Fannie Mae, and Freddie Mac.
 
-# Pac West Bank
-https://https://www.pacificwestbank.com/
-This bank purchased Civic and ultimately sold it off and was laid off. We had over 3 billion in loans that ultimately needed to be liquidated.
+During my tenure, the organization underwent significant business transformation, including the formation of Civic Financial Services and the subsequent acquisition by PacWest Bank. I supported multiple phases of these transitions, helping maintain operational continuity while evolving the technology platforms that supported loan servicing, asset management, reporting, and regulatory compliance.
 
+At its peak, the organization managed billions of dollars in real estate-backed assets and lending portfolios, requiring highly reliable systems, secure data management, and auditable business processes.
 
-# Project Highlights:
+---
 
-• Continued developing a Asset management software to track loans and propery assets.
-• Implemented webhooks to help dissiminate data to other sub-divisions of the company
-• Implement SDLC environment for FileMaker files. DEV->QA->UAT->PROD. 
-• Ensure development would comply with SOX
-• Implement SOC reports and implmented SDLC controls for annual SOX audits.  
+## Project Summary
 
-	Technology Stack:
-		• SQL Server
-		• ODBC / Linked Server to FileMaker Server
-		• PowerShell
-		• Azure DevOPS 
-		• Tableau
-		• PowerBI 
-		• Ingest and process securely daily critical financial data 
+Served as a key contributor responsible for the continued development, modernization, and operational support of the company's enterprise asset management platform.
 
+The platform was used to manage loan portfolios, real estate assets, servicing activities, operational workflows, reporting requirements, and business-critical financial data.
 
+My responsibilities spanned software development, systems integration, database design, deployment processes, reporting, compliance support, and operational automation.
+
+---
+
+## Key Contributions
+
+### Enterprise Asset Management Platform
+
+- Continued development and enhancement of a custom enterprise asset management system built using FileMaker Pro and Microsoft SQL Server.
+- Supported business operations responsible for managing large-scale loan portfolios and property assets.
+- Improved operational efficiency through workflow automation and data integration initiatives.
+
+### Systems Integration & Data Accessibility
+
+- Designed and implemented webhook-based integrations that enabled secure data sharing across multiple business units.
+- Developed automated processes to improve data availability and reduce manual reporting requirements.
+- Supported integration between internal systems and external reporting platforms.
+
+### Software Development Lifecycle (SDLC)
+
+- Designed and implemented a structured SDLC process for FileMaker-based applications, including:
+  - Development (DEV)
+  - Quality Assurance (QA)
+  - User Acceptance Testing (UAT)
+  - Production (PROD)
+
+- Established deployment procedures and change management controls to improve software quality and release consistency.
+
+### Regulatory Compliance & Audit Support
+
+- Worked closely with business and compliance teams to ensure development practices aligned with SOX requirements.
+- Assisted in implementing SDLC controls, documentation standards, and audit processes used during annual SOX reviews.
+- Supported organizational efforts related to SOC reporting and internal controls.
+
+### Business Intelligence & Reporting
+
+- Supported enterprise reporting initiatives using Tableau and Power BI.
+- Helped deliver operational visibility into portfolio performance, lending activity, and asset management metrics.
+- Contributed to the processing and management of business-critical financial data used across multiple departments.
+
+---
+
+## Technologies Utilized
+
+### Application Development
+- FileMaker Pro
+- PowerShell
+
+### Database Technologies
+- Microsoft SQL Server
+- FileMaker Server
+- ODBC
+- SQL Server Linked Servers
+
+### Reporting & Analytics
+- Tableau
+- Power BI
+
+### DevOps & Deployment
+- Azure DevOps
+- SDLC Process Management
+- Change Management Controls
+
+### Enterprise Integration
+- Webhooks
+- Data Automation
+- Financial Data Processing
+
+---
+
+## Business Impact
+
+This work supported a highly regulated financial services environment responsible for managing billions of dollars in loan and real estate assets. The systems and processes developed during this period helped improve operational efficiency, strengthen audit readiness, support regulatory compliance requirements, and provide business stakeholders with reliable access to critical financial data.
