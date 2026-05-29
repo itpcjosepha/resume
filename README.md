@@ -24,10 +24,13 @@ Throughout my career, I have focused on solving complex business and technical c
 
 ## Portfolio Overview
 
-This repository is a curated collection of professional work samples, project artifacts, screenshots, architecture examples, and supporting documentation gathered from engagements over the past decade.
+This portfolio is intended to demonstrate not only software development skills, but also the ability to:
 
-The objective of this portfolio is to provide insight into my approach to:
-
+- Understand complex business requirements
+- Design scalable solutions
+- Lead technical implementations
+- Communicate effectively with technical and non-technical stakeholders
+- Deliver measurable business outcomes
 - Enterprise application architecture
 - Systems integration and automation
 - Data modeling and database design
