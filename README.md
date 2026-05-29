@@ -1,34 +1,31 @@
-# Joseph E. Arzate Jr. — Sr. Full Stack Software Engineer.
+## Joseph E. Arzate Jr. | Senior Full Stack Software Engineer
+This repository is a curated portfolio of selected professional work, built to help reviewers quickly understand my technical experience, delivery style, and systems-thinking approach.
 
-This repository is a living resume for Joseph E. Arzate Jr. It is organized to help review past work history, projects, supporting screenshots, and documents from past engagements.
+It includes project screenshots, architecture and data-model artifacts, recommendation letters, and supporting writing samples from real engagements.
+
+## What This Repository Includes:
+	• Project and engagement summaries 
+	• Product and implementation screenshots
+	• Entity-relationship diagrams and data-model artifacts
+	• Organizational and process examples
+	• Technical and business writing samples
+	• Letters of recommendation
 
 ## Quick Start for Reviewers
 
 Start here when browsing the repository:
 
-- [Projects and engagements](./projects/README.md)
-- [Screenshots gallery](./artifacts/screenshots/README.md)
-- [Documents and supporting materials](./artifacts/documents/README.md)
+- [Hearing Care Solutions - HCS ](./HCS/README.md)
+- [Iron Mountain](./IronMountain/README.md)
+- [ProMigrator](./ProMigrator/README.md)
+- [WarnerBros_Discovery](./WarnerBros_Discovery/README.md)
+
 
 ## Repository Layout
 
 ```text
 .
 ├── README.md
-├── Screenshots
-│   ├── documents
+├── Project
+│   ├── Artifacts
 ```
-
-## What This Repository Showcases
-
-- Past projects and contract engagements
-- Screenshots that demonstrate delivered work
-- Documents that provide supporting context
-- A simple, organized structure that is easy to review on GitHub
-
-## Review Guidance
-
-For the best experience:
-
-1. Open the [projects index](./projects/README.md) for the high-level portfolio view.
-2. Follow links to ScreenShots and supporting documents for each engagement.
