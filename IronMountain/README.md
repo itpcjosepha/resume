@@ -1,9 +1,12 @@
 Iron Mountain Entertainment Services, Hollywood CA - 2015
+
 [https://www.ironmountain.com](https://www.ironmountain.com)
 
-Archives, store, media and converts them to a digital format. The project consisted of completing a FileMaker Pro database to track, extract, backup tape media to a digital file.
+This contract with Iron Mountain was to assist with a contract with Intel computers. This project essentially conssisted of tracking incoming backup tapes (millions of them) and transfer the content (data) to a database. I developed a FileMaker application that would monitor, create, and validate tape jobs. 
 
-Some of the main modules where:
+The project consisted of completing a FileMaker Pro database to track, extract, backup tape media to a digital file.
+
+Some of the main modules included:
   
       • Media
       • Accounts
