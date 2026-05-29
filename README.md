@@ -1,18 +1,36 @@
 # Joseph E. Arzate Jr.
 ## Senior Full Stack Software Engineer
 
-Enterprise software engineer with 10+ years of experience designing, building, and delivering large-scale business applications, integrations, data platforms, and customer-facing products for Fortune 500 organizations and growing SaaS businesses.
+Enterprise software engineer with 10+ years of experience delivering enterprise applications, systems integrations, data platforms, and business process automation solutions across healthcare, financial services, media, education, and SaaS organizations.
+
+Experienced in translating business objectives into scalable technical solutions through architecture, software development, systems integration, and customer-focused implementation.
 
 Throughout my career, I have focused on solving complex business and technical challenges through scalable software solutions, enterprise integrations, process automation, and thoughtful system design. My experience spans architecture, development, implementation, customer-facing delivery, and cross-functional collaboration.
 
 ---
 
+## Career Highlights
+
+- 10+ years delivering enterprise software solutions
+
+- Experience supporting Fortune 500 organizations and regulated industries
+
+- Designed and implemented large-scale systems integrations and data migration solutions
+
+- Built business-critical applications across healthcare, financial services, education, media, and SaaS sectors
+
+- Experience spanning architecture, software development, implementation, documentation, and customer-facing delivery
+
+
 ## Portfolio Overview
 
-This repository is a curated collection of professional work samples, project artifacts, screenshots, architecture examples, and supporting documentation gathered from engagements over the past decade.
+This portfolio is intended to demonstrate not only software development skills, but also the ability to:
 
-The objective of this portfolio is to provide insight into my approach to:
-
+- Understand complex business requirements
+- Design scalable solutions
+- Lead technical implementations
+- Communicate effectively with technical and non-technical stakeholders
+- Deliver measurable business outcomes
 - Enterprise application architecture
 - Systems integration and automation
 - Data modeling and database design
@@ -23,7 +41,7 @@ The objective of this portfolio is to provide insight into my approach to:
 
 ---
 
-## Areas of Experience
+## Knowledge, Skills, and Abilities
 
 ### Software Engineering
 - Full-stack application development
@@ -63,10 +81,10 @@ Enterprise software and operational solutions supporting large-scale media and e
 
 - [WarnerBros_Discovery](./WarnerBros_Discovery/README.md)
 
-### HMC Assets | Civic | PacWestBank (Real Estate, Hard Money Loan, Bank)
-Assett management FileMaker Pro software. Azure integration, SOX auditable buisness financial institution.  
+### HMC Assets | Civic | PacWestBank (Real Estate, Lending, Bank)
+Asset management platform supporting financial and lending operations, including Azure integrations, workflow automation, reporting, and SOX-auditable business processes.
 
-- [HMC Assetts](./HMC Assets/README.md)
+- [HMC Assets](./HMC/README.md)
 
 ### Iron Mountain (Records & Information Management)
 Solutions supporting enterprise records management, document workflows, and large-scale business operations.
@@ -74,7 +92,7 @@ Solutions supporting enterprise records management, document workflows, and larg
 - [Iron Mountain](./IronMountain/README.md)
 
 ### Baldwin Park Unified School District - "Head Start" Program (Education)
-Provided framework to develop a FileMaker Pro file to track student registration, classess, and student health metrics.
+Developed a framework and application platform supporting student registration, classroom management, and health-tracking requirements for the Head Start program.
 
 - [BPUSD](./BPUSD/README.md)
 
@@ -106,16 +124,14 @@ Examples of:
 
 ## Engineering Philosophy
 
-Technology creates value when it solves real business problems. Especially when replacing error prone manual tedious processes.
+Technology creates value when it solves real business problems. My approach has always been to first understand the operational challenges, business objectives, and user needs before designing technical solutions. The most successful projects balance technical excellence, maintainability, usability, and measurable business outcomes.
 
-My approach has always been to first understand the operational challenges, business objectives, and user needs before designing technical solutions. The most successful projects balance technical excellence, maintainability, usability, and measurable business outcomes.
+I really enjoy working at the intersection of business strategy and software engineering, translating complex requirements into practical, scalable solutions.
 
-I enjoy working at the intersection of business strategy and software engineering, translating complex requirements into practical, scalable solutions.
+--
 
----
+## Note Regarding Client Work
 
-## About Me
+Many projects represented in this repository were developed for clients and employers under confidentiality agreements.
 
-Outside of software development, I enjoy baseball, NHRA racing, and a good hike to clear my mind. I'm continuously exploring new technologies, products, and latest business strategies.
-
-Thank you for taking the time to review my work. I appreciate the opportunity to share examples of the projects, systems, and solutions I have helped deliver throughout my career.
+The materials included here have been carefully curated to avoid proprietary information while still demonstrating architecture, implementation approaches, system design, documentation, and delivery methodologies.
