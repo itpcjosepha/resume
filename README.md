@@ -1,4 +1,4 @@
-# Joseph E. Arzate Jr. — Living Resume
+# Joseph E. Arzate Jr. — Sr. Full Stack Software Engineer.
 
 This repository is a living resume for Joseph E. Arzate Jr. It is organized to help review past work history, projects, supporting screenshots, and documents from past engagements.
 
