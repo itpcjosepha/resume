@@ -29,6 +29,6 @@ The SQL Server screenshots is the FileMaker data in SQL Server after a ETL event
 
 The program was created by reverse engineering the original FileMaker solution and scaffolding a new FileMaker file and essentially exported data from a daily backup and load it into SQL Server using SQL Server bulk import. 
 
-Business goal was to allow the reporting team to use SQL Server and replace all internal FileMaker Pro files that could take days to run. We also provided the ability to connect PowerBI and Sisense analytics & reporting to SQL Server infused by the FileMaker data transfer. 
+Business goal was to allow the reporting team to use SQL Server and replace all internal FileMaker Pro reports that could take days to run on a production environment. We provided the ability to connect PowerBI and Sisense analytics & reporting.
 
-Included are pictures of the database schema. I use the “Anchor-Buoy” methodology for FileMaker relationships, which means each table is represented one time with its own color and related tables. Here is a breakdown of the different methods https://highpowerdata.com/three-models-for-the-filemaker-relationship-graph/ 
+Included are pictures of the database schema. I use the “Anchor-Buoy” methodology for FileMaker relationships, which means each table is represented one time with its own color and related tables. For a breakdown of this methodology this article is great: https://highpowerdata.com/three-models-for-the-filemaker-relationship-graph/ 
