@@ -48,25 +48,30 @@ The objective of this portfolio is to provide insight into my approach to:
 
 ## Featured Projects
 
-### Hearing Care Solutions (Healthcare)
-Enterprise healthcare software supporting operational workflows, integrations, patient services, and business operations.
-
-- [Hearing Care Solutions - HCS ](./HCS/README.md) under the WSA corporate umbrella, https://www.wsa.com/about/
-
-### Iron Mountain (Records & Information Management)
-Solutions supporting enterprise records management, document workflows, and large-scale business operations.
-
-- [Iron Mountain](./IronMountain/README.md)
-
 ### ProMigrator (SaaS Platform)
 Data migration and automation platform focused on simplifying onboarding, system conversions, and operational efficiency.
 
 - [ProMigrator](./ProMigrator/README.md)
 
+### Hearing Care Solutions (Healthcare)
+Enterprise healthcare software supporting operational workflows, integrations, patient services, and business operations.
+
+- [Hearing Care Solutions - HCS ](./HCS/README.md) under the WSA corporate umbrella, https://www.wsa.com/about/
+
 ### Warner Bros. Discovery (Media & Entertainment)
 Enterprise software and operational solutions supporting large-scale media and entertainment business processes.
 
 - [WarnerBros_Discovery](./WarnerBros_Discovery/README.md)
+
+### HMC Assets | Civic | PacWestBank (Real Estate, Hard Money Loan, Bank)
+Assett management FileMaker Pro software. Azure integration, SOX auditable buisness financial institution.  
+
+- [HMC Assetts](./HMC Assets/README.md)
+
+### Iron Mountain (Records & Information Management)
+Solutions supporting enterprise records management, document workflows, and large-scale business operations.
+
+- [Iron Mountain](./IronMountain/README.md)
 
 ### Baldwin Park Unified School District - "Head Start" Program (Education)
 Provided framework to develop a FileMaker Pro file to track student registration, classess, and student health metrics.
