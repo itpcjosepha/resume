@@ -125,3 +125,10 @@ Technology creates value when it solves real business problems. My approach has 
 
 I really enjoy working at the intersection of business strategy and software engineering, translating complex requirements into practical, scalable solutions.
 
+--
+
+## Note Regarding Client Work
+
+Many projects represented in this repository were developed for clients and employers under confidentiality agreements.
+
+The materials included here have been carefully curated to avoid proprietary information while still demonstrating architecture, implementation approaches, system design, documentation, and delivery methodologies.
