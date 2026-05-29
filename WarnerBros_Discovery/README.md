@@ -13,5 +13,7 @@ Included is a document to provide an example of my technical writing skills and 
     Technology Stack:
         • FileMaker Pro 
         • FileMaker Server
-        • PowerShell
+        • BATCH & PowerShell
         • JSON, cURL, RESTful APIs
+        • FileMaker Server Schedules
+        • FileMaker Server Backups
