@@ -11,4 +11,4 @@ Included is a document to provide an example of my technical writing skills and 
         • FileMaker Pro 
         • FileMaker Server
         • PowerShell
-        • JSON, CuRL, RESTful API
+        • JSON, cURL, RESTful APIs
