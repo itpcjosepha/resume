@@ -6,7 +6,7 @@ This contract with Iron Mountain was to assist with a contract with Intel comput
 
 The project consisted of completing a FileMaker Pro database to track, extract, backup tape media to a digital file.
 
-Some of the main modules included:
+Some of the main modules and artifacts included:
   
       • Media
       • Accounts
