@@ -6,6 +6,12 @@ This contract with Iron Mountain was to assist with a contract with Intel comput
 
 The project consisted of completing a FileMaker Pro database to track, extract, backup tape media to a digital file.
 
+Technology Stack:
+    • FileMaker 
+    • 360Works JavaScript Plugin for FileMaker
+    • JS/HTML 
+    • CSS3
+
 Some of the main modules and artifacts included:
   
       • Media
@@ -30,3 +36,6 @@ Some of the main modules and artifacts included:
       • Troubleshooting
       • Reverse Engineered previous developers code to update / correct “Bugs”
       • Optimized code for speed improvements
+
+
+    
