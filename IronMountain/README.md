@@ -1,6 +1,9 @@
-Iron Mountain Entertainment Services, Hollywood CA 2015 – Present
-Iron Mountain Entertainment Services, archives, stores, media and converts them to a digital format. The project consisted of completing a FileMaker Pro database to track, extract, backup tape media to a digital file.
+Iron Mountain Entertainment Services, Hollywood CA - 2015
+
+Archives, store, media and converts them to a digital format. The project consisted of completing a FileMaker Pro database to track, extract, backup tape media to a digital file.
+
 Some of the main modules where:
+
 • Media
 • Accounts
 • Project
