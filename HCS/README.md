@@ -2,12 +2,17 @@
 https://www.hearingcaresolutions.com
 
 Project Highlights:
-	
-	• Reverse engineer a 8 year old FileMaker Pro solution and transfer data to MS SQL Server.
-	• Implement SDLC environments. DEV->QA->UAT->PROD. 
-	• Ensure development would comply with HIPAA
-	• Implement SDLC controls for HiTrust certification.  
-	
+
+• Reverse engineer a 8 year old FileMaker Pro solution and transfer data to MS SQL Server
+
+
+• Implement SDLC environments. DEV->QA->UAT->PROD. 
+
+• Ensure development would comply with HIPAA
+
+• Implement SDLC controls for HiTrust certification.  
+
+
 	Technology Stack:
 		• SQL Server
 		• ODBC / Linked Server to FileMaker Server
