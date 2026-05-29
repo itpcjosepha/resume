@@ -17,8 +17,8 @@ One of the world's largest manufacturers of hearing aids and hearing healthcare 
 		• ODBC / Linked Server to FileMaker Server
 		• PowerShell
 		• BulkLoad XSLT CSV 
-		• Export All
-		• Export Modified
+		• Batch Export (rip/replace)
+		• Batch Export (modified)
 		• FileMaker Server Admin API
 		• External oAuth secure login implementation
 
