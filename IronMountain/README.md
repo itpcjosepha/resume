@@ -11,6 +11,7 @@ The project consisted of completing a FileMaker Pro database to track, extract, 
         • 360Works JavaScript Plugin for FileMaker
         • JS/HTML 
         • CSS3
+        • SQL Server
 
 Some of the main modules and artifacts included:
   
