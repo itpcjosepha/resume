@@ -66,7 +66,7 @@ Enterprise software and operational solutions supporting large-scale media and e
 ### HMC Assets | Civic | PacWestBank (Real Estate, Hard Money Loan, Bank)
 Assett management FileMaker Pro software. Azure integration, SOX auditable buisness financial institution.  
 
-- [HMC Assetts](./HMC Assets/README.md)
+- [HMC Assets](./HMC/README.md)
 
 ### Iron Mountain (Records & Information Management)
 Solutions supporting enterprise records management, document workflows, and large-scale business operations.
