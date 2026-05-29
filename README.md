@@ -15,13 +15,8 @@ Start here when browsing the repository:
 ```text
 .
 ├── README.md
-├── artifacts
+├── Screenshots
 │   ├── documents
-│   │   └── README.md
-│   └── screenshots
-│       └── README.md
-└── projects
-    └── README.md
 ```
 
 ## What This Repository Showcases
@@ -36,5 +31,4 @@ Start here when browsing the repository:
 For the best experience:
 
 1. Open the [projects index](./projects/README.md) for the high-level portfolio view.
-2. Follow links to screenshots and supporting documents for each engagement.
-3. Use the artifact folders to review visual samples and written deliverables.
+2. Follow links to ScreenShots and supporting documents for each engagement.
