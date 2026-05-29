@@ -1,34 +1,33 @@
-# Hearing Care Solutions (2022-2025) 
-https://www.hearingcaresolutions.com | https://www.wsa.com/about/
+# HMC Assets | Civic Financial | PacWest Bank (2017-2022) 
+https://www.linkedin.com/company/hmc-assets | https://www.pacificwestbank.com/
 
-# About WSA
-One of the world's largest manufacturers of hearing aids and hearing healthcare solutions. Headquartered in Denmark and Singapore, the multinational company was formed in 2019. 
+# HMC Assets
+Headquartered in Redondo Beach, CA, HMC acquires and manages institutional pools of distressed debt purchased from financial institutions, banks, and U.S. government sponsored enterprises including HUD, Fannie Mae and Freddie Mac. Actively engaged in the non-performing loan market, HMC has established itself as one of the market leaders at evaluating, pricing and managing such inventory. We are a large acquirer of distressed debt, having purchased in excess of $1 billion of non-performing loans, primarily in the Western United States and Florida.
+
+# Civic Financial Services
+https://cv3financial.com/leadership/
+This company was created shortly after HMC Assets was split up. I assisted with that transition and again when Civic was purchased by Pac West Bank. 
+
+# Pac West Bank
+https://https://www.pacificwestbank.com/
+This bank purchased Civic and ultimately sold it off and was laid off. We had over 3 billion in loans that ultimately needed to be liquidated.
+
 
 # Project Highlights:
 
-• Developed a daily 7 million row ETL transfer from a 8 year old FileMaker Pro solution into MS SQL Server
-• Implemented webhooks
+• Continued developing a Asset management software to track loans and propery assets.
+• Implemented webhooks to help dissiminate data to other sub-divisions of the company
 • Implement SDLC environment for FileMaker files. DEV->QA->UAT->PROD. 
-• Ensure development would comply with HIPAA
-• Implement SDLC controls for HiTrust certification.  
+• Ensure development would comply with SOX
+• Implement SOC reports and implmented SDLC controls for annual SOX audits.  
 
 	Technology Stack:
 		• SQL Server
 		• ODBC / Linked Server to FileMaker Server
 		• PowerShell
-		• BulkLoad XSLT CSV 
-		• Batch Export (rip/replace)
-		• Batch Export (modified)
-		• FileMaker Server Admin API
-		• External oAuth secure login implementation
+		• Azure DevOPS 
+		• Tableau
+		• PowerBI 
+		• Ingest and process securely daily critical financial data 
 
 
-The focal FileMaker solution I created would extract, transfer, and load over 7million rows of data from backup files of the 8 year old FileMaker file to SQL Server. The screenshot of what I developed is headed in blue with “FM<=>SQL (Solution Analysis)”  the yellow card with redacted data is the original 8 year old program that I did not develop or design. 
-
-The SQL Server screenshots is the FileMaker data in SQL Server after a ETL event. 
-
-The program was created by reverse engineering the original FileMaker solution and scaffolding a new FileMaker file and essentially exported data from a daily backup and load it into SQL Server using SQL Server bulk import. 
-
-Business goal was to allow the reporting team to use SQL Server and replace all internal FileMaker Pro reports that could take days to run on a production environment. We provided the ability to connect PowerBI and Sisense analytics & reporting.
-
-Included are pictures of the database schema. I use the “Anchor-Buoy” methodology for FileMaker relationships, which means each table is represented one time with its own color and related tables. For a breakdown of this methodology this article is great: https://highpowerdata.com/three-models-for-the-filemaker-relationship-graph/ 
