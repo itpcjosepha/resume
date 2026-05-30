@@ -1,7 +1,7 @@
 # Joseph E. Arzate Jr.
 ## Senior Full Stack Software Engineer
 
-Enterprise software engineer with 10+ years of experience delivering enterprise applications, systems integrations, data platforms, and business process automation solutions across healthcare, financial services, media, education, and SaaS organizations.
+Enterprise Software Engineer specializing in business systems, systems integration, automation, data platforms, and operational process modernization across healthcare, financial services, media, education, and SaaS organizations.
 
 Experienced in translating business objectives into scalable technical solutions through architecture, software development, systems integration, and customer-focused implementation.
 
