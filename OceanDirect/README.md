@@ -1,5 +1,7 @@
-# Ocean Direct LLC | https://www.profoodsolutions.com/our-companies/richmond-wholesale
-Senior Software Engineer / Enterprise Applications Developer
+# Ocean Direct LLC 
+## Senior Software Engineer / Enterprise Applications Developer
+- https://www.profoodsolutions.com/our-companies/richmond-wholesale
+
 
 ## Business Overview
 
