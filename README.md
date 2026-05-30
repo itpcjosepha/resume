@@ -132,7 +132,7 @@ Technology creates value when it solves real business problems. My approach has 
 
 I really enjoy working at the intersection of business strategy and software engineering, translating complex requirements into practical, scalable solutions.
 
---
+---
 
 ## Note Regarding Client Work
 
