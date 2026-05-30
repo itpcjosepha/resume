@@ -62,14 +62,13 @@ This portfolio is intended to demonstrate not only software development skills, 
 - Agile development and project execution
 - Technical documentation and knowledge transfer
 
----
+----
 
 ## Featured Projects
 
 ### ProMigrator (SaaS Platform) - 
 [ProMigrator](./ProMigrator/README.md)
 Data migration and automation platform focused on simplifying onboarding, system conversions, and operational efficiency.
-
 
 
 ### Hearing Care Solutions (Healthcare)
@@ -87,8 +86,7 @@ Asset management platform supporting financial and lending operations, including
 
 - [HMC Assets](./HMC/README.md)
 
-## Ocean Direct LLC (Supply Chain, Logistics & Food Distribution)
-
+### Ocean Direct LLC (Supply Chain, Logistics & Food Distribution)
 Enterprise supply chain and operations platform supporting procurement, inventory management, fulfillment, logistics, affiliate accounting, and QuickBooks integration for food distribution operations serving both commercial and government customers.
 - [Ocean Direct](./OceanDirect/README.md)
 
