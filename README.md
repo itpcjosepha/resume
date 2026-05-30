@@ -17,7 +17,7 @@ Throughout my career, I have focused on solving complex business and technical c
 
 - Designed and implemented large-scale systems integrations and data migration solutions
 
-- Built business-critical applications across healthcare, financial services, education, media, and SaaS sectors
+- Built business-critical applications across healthcare, financial services, supply chain, logistics, media, education, and SaaS organizations
 
 - Experience spanning architecture, software development, implementation, documentation, and customer-facing delivery
 
@@ -86,6 +86,11 @@ Enterprise software and operational solutions supporting large-scale media and e
 Asset management platform supporting financial and lending operations, including Azure integrations, workflow automation, reporting, and SOX-auditable business processes.
 
 - [HMC Assets](./HMC/README.md)
+
+## Ocean Direct LLC (Supply Chain, Logistics & Food Distribution)
+
+Enterprise supply chain and operations platform supporting procurement, inventory management, fulfillment, logistics, affiliate accounting, and QuickBooks integration for food distribution operations serving both commercial and government customers.
+- [Ocean Direct](./OceanDirect/README.md)
 
 ### Iron Mountain (Records & Information Management)
 Solutions supporting enterprise records management, document workflows, and large-scale business operations.
