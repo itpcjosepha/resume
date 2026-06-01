@@ -1,5 +1,6 @@
 # Ocean Direct LLC
-Gardena CA, (Hybrid) (2007-2015)
+Gardena CA, (Hybrid) (2007-2015).
+
 Senior Software Engineer / Enterprise Applications Developer
 - https://www.profoodsolutions.com/our-companies/richmond-wholesale
 
