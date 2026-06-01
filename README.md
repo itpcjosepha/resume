@@ -66,36 +66,36 @@ This portfolio is intended to demonstrate not only software development skills, 
 
 ## Featured Projects
 
-### ProMigrator (SaaS Platform) 
+### ProMigrator (SaaS Platform) - Pico Rivera, CA
 [ProMigrator](./ProMigrator/README.md)
 Data migration and automation platform focused on simplifying onboarding, system conversions, and operational efficiency.
 
 
-### Hearing Care Solutions (Healthcare)
+### Hearing Care Solutions (Healthcare) -  Greenwood, CO (Remote)
 Enterprise healthcare software supporting operational workflows, integrations, patient services, and business operations.
 
 - [Hearing Care Solutions - HCS ](./HCS/README.md) under the WSA corporate umbrella, https://www.wsa.com/about/
 
-### Warner Bros. Discovery (Media & Entertainment)
+### Warner Bros. Discovery (Media & Entertainment) - Culver City, CA (Remote) 
 Enterprise software and operational solutions supporting large-scale media and entertainment business processes.
 
 - [WarnerBros_Discovery](./WarnerBros_Discovery/README.md)
 
-### HMC Assets | Civic | PacWestBank (Real Estate, Lending, Bank)
+### HMC Assets | Civic | PacWestBank (Real Estate, Lending, Bank) Redondo Beach, CA (On-Site)
 Asset management platform supporting financial and lending operations, including Azure integrations, workflow automation, reporting, and SOX-auditable business processes.
 
 - [HMC Assets](./HMC/README.md)
 
-### Ocean Direct LLC (Supply Chain, Logistics & Food Distribution)
+### Ocean Direct LLC (Supply Chain, Logistics & Food Distribution) Gardena CA, (Hybrid)
 Enterprise supply chain and operations platform supporting procurement, inventory management, fulfillment, logistics, affiliate accounting, and QuickBooks integration for food distribution operations serving both commercial and government customers.
 - [Ocean Direct](./OceanDirect/README.md)
 
-### Iron Mountain (Records & Information Management)
+### Iron Mountain (Records & Information Management) Los Angeles (Hollywood), CA (On-Site)
 Solutions supporting enterprise records management, document workflows, and large-scale business operations.
 
 - [Iron Mountain](./IronMountain/README.md)
 
-### Baldwin Park Unified School District - "Head Start" Program (Education)
+### Baldwin Park Unified School District (Education) Baldwin Park, CA (Hybrid)
 Developed a framework and application platform supporting student registration, classroom management, and health-tracking requirements for the Head Start program.
 
 - [BPUSD](./BPUSD/README.md)
