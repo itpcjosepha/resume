@@ -1,6 +1,6 @@
 # Iron Mountain Entertainment Services
 Software Engineer / FileMaker Developer  
-Hollywood, California | 2015
+Los Angeles (Hollywood), CA (On-Site) (2015-2018)
 
 ## Business Overview
 
