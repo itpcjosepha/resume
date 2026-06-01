@@ -5,7 +5,15 @@ Enterprise Software Engineer specializing in business systems, systems integrati
 
 Experienced in translating business objectives into scalable technical solutions through architecture, software development, systems integration, and customer-focused implementation.
 
-Throughout my career, I have focused on solving complex business and technical challenges through scalable software solutions, enterprise integrations, process automation, and thoughtful system design. My experience spans architecture, development, implementation, customer-facing delivery, and cross-functional collaboration.
+---
+
+## Engineering Philosophy
+
+Throughout my career, I have focused on solving complex business and technical challenges through scalable software solutions, enterprise integrations, process automation, and thoughtful system design. My experience spans architecture, development, implementation, customer-facing delivery, and cross-functional collaboration between systems.
+
+Technology creates value when it solves real business problems. My approach has always been to first understand the operational challenges, business objectives, and user needs before designing technical solutions. 
+
+I really enjoy translating complex requirements into practical, scalable solutions.
 
 ---
 
@@ -124,13 +132,6 @@ Examples of:
 - Recommendation letters
 - Project summaries
 
----
-
-## Engineering Philosophy
-
-Technology creates value when it solves real business problems. My approach has always been to first understand the operational challenges, business objectives, and user needs before designing technical solutions. The most successful projects balance technical excellence, maintainability, usability, and measurable business outcomes.
-
-I really enjoy working at the intersection of business strategy and software engineering, translating complex requirements into practical, scalable solutions.
 
 ---
 
