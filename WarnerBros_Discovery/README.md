@@ -1,6 +1,6 @@
 # Warner Bros. Discovery
 Senior Software Engineer / Enterprise Applications Consultant  
-2022 – 2024
+Culver City, CA (Remote) 2022 – 2024
 
 Website: https://www.warnerbros.com
 
