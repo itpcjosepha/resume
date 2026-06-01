@@ -132,6 +132,27 @@ Examples of:
 - Recommendation letters
 - Project summaries
 
+---
+
+### Certifications
+
+## App Developer for Claris FileMaker Pro Expert
+Issued by Claris (7/18/2024)
+Claris verifies that the earner of this credential has successfully completed the App Developer Claris FileMaker Pro Expert course. The credential holder demonstrates advanced knowledge of FileMaker Pro including creating complex relationships, automating reports, creating basic charts, applying custom menus, using role-based security to control access, and sharing and hosting files.
+
+https://www.credly.com/badges/0213bb62-4d12-454a-b980-aa881cc1a5f6/linked_in_profile
+
+## App Developer for Claris FileMaker Pro Associate & App Developer for Claris FileMaker Pro Specialist
+Issued by Claris (10/26/2023)
+Claris verifies that the earner of this credential has successfully completed the App Developer Claris FileMaker Pro Associate course at Claris Academy. The holder of this credential has foundational knowledge about developing FileMaker Pro custom apps, including creating schema, data management, and layout design.
+
+https://www.credly.com/badges/8bf22574-2bc2-4c7e-88e4-3c7afe01b664/linked_in_profile
+
+https://www.credly.com/badges/f61d67e6-6fb3-49f8-be71-85f5eeffeaf5/linked_in_profile
+
+## FileMaker “Train the Trainer” series  
+Issued by Claris (4/2011)
+On-site training at the “Wedge” in Santa Clarita CA.
 
 ---
 
