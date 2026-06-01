@@ -1,6 +1,6 @@
 # ProMigrator 2FM
 Founder | Product Architect | Lead Software Engineer  
-Pico Rivera, CA (Hybrid) (2025+)
+Pico Rivera, CA (Remote) (2025+)
 
 Website: https://www.promigrator.com
 
