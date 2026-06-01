@@ -1,6 +1,6 @@
 # Hearing Care Solutions (WS Audiology)
 Senior Software Engineer / Enterprise Applications Consultant  
-2022 – 2025
+Greenvillage, CO (Remote) 2022 – 2025
 
 Websites:
 
