@@ -1,6 +1,6 @@
 # HMC Assets | Civic Financial Services | PacWest Bank
 Senior Software Engineer / Enterprise Applications Developer  
-2017 – 2022
+Redondo Beach, CA (On-Site) 2017 – 2022
 
 ## Business Overview
 
