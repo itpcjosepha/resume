@@ -1,6 +1,6 @@
 # Baldwin Park Unified School District (BPUSD)
 Application Developer / FileMaker Consultant  
-Baldwin Park, California (2011)
+Baldwin Park, California (Hybrid) (2011)
 
 Website: https://www.bpusd.net
 
